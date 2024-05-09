@@ -1,3 +1,4 @@
+Gunicorn
 Flask
 keras
 opencv-python
